@@ -14,7 +14,6 @@ all:$(TARGETS)
 
 $(TARGETS):
 	$(AT)printf  "\t\t   +---------------------------+\n"
-	$(AT)printf  "\t\t  /         Cortina            /|\n"
 	$(AT)printf  "\t\t /    Common Module Build     / |\n"
 	$(AT)printf  "\t\t/----------------------------/  |\n"
 	$(AT)printf  "\t\t|                           |   |\n"
